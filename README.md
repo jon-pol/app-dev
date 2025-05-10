@@ -1,6 +1,7 @@
 # app-dev
 My first repository
 # My favorite anime
-- *One piece*
-- Naruto
-- Boku no Hero Academia
+- **One piece**
+- **Naruto**
+- **Boku no Hero Academia**
+- **Attack on Titan**
