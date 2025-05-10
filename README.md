@@ -1,7 +1,12 @@
 # app-dev
 My first repository
 # My favorite anime
-- **One piece**
-- **Naruto**
-- **Boku no Hero Academia**
-- **Attack on Titan**
+1. *One Piece*
+2. *Attack on Titan*
+3. *Naruto*
+4. *Solo Leveling*
+# Why I like it
+- **It is more on adventures**
+- **diverse genre**
+- **more fun and exciting to watch**
+
