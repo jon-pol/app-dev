@@ -2,5 +2,5 @@
 My first repository
 # My favorite anime
 - One piece
-- Second item
-- Third item
+- Naruto
+- Boku no Hero Academia
